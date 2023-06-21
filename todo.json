@@ -1,0 +1,26 @@
+{
+    "PHP": {
+        "completed": true
+    },
+    "JS": {
+        "completed": true
+    },
+    "NodeJs": {
+        "completed": true
+    },
+    "Laravel": {
+        "completed": true
+    },
+    "C++": {
+        "completed": false
+    },
+    "Java": {
+        "completed": false
+    },
+    "HTML": {
+        "completed": true
+    },
+    "CSS": {
+        "completed": true
+    }
+}
